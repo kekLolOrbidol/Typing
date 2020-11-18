@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="screen_padding">16dp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="text_extra_extra_small">11sp</dimen>
+    <dimen name="text_extra_small">12sp</dimen>
+    <dimen name="text_small">14sp</dimen>
+    <dimen name="text_medium">16sp</dimen>
+    <dimen name="text_large">18sp</dimen>
+    <dimen name="text_extra_large">20sp</dimen>
+    <dimen name="text_extra_extra_large">22sp</dimen>
+    <dimen name="text_huge">24sp</dimen>
+
+</resources>

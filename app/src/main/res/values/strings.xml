@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">typing</string>
+
+
+    <string-array name="result_stats_head">
+        <item>Congrats on passing in time!</item>
+        <item>Almost! Good luck next time.</item>
+        <item>Oops! Quite didn\'t make it.</item>
+    </string-array>
+
+    <string name="facebook_app_id">459436638393707</string> <string name="fb_login_protocol_scheme">fb459436638393707</string>
+
+
+    <string name="result_stats_body">
+        Your completion percentage is: %1$d\nYour WPM is: %2$.1f\n
+    </string>
+
+</resources>
