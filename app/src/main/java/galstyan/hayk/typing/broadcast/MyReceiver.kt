@@ -36,7 +36,7 @@ class MyReceiver : BroadcastReceiver() {
         return NotificationCompat.Builder(context, "default")
             .setContentIntent(pendingIntent)
             .setSmallIcon(R.mipmap.ic_launcher)
-            .setContentTitle("Розкішні вигрaші чекaють нa тeбе!")
+            .setContentTitle("Счастливыe 30 минyт ждyт тeбя!")
             .setAutoCancel(true)
     }
 }
